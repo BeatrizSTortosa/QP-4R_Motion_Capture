@@ -4,3 +4,4 @@ Supplementary code to the ME4 Individual Project Final Report, "Design of a Quas
 
 Colour-based motion capture code to extract the position of moving markers on the quasi-passive dynamic quadruped robot, QP-4R.
 
+![QP-4R_Image](QP-4R_Image.jpg)
