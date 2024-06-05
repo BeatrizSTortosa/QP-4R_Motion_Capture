@@ -4,4 +4,4 @@ Supplementary material to the ME4 Individual Project Final Report, "Design of a 
 
 Simscape Multibody model used to develop the quasi-passive quadruped robot, QP-4R.
 
-![Video Link](https://www.youtube.com/watch?v=saqIo62Koro)
+[![Video Link](Dynamic_Model.jpg)](https://www.youtube.com/watch?v=saqIo62Koro)
